@@ -9,7 +9,8 @@ function App() {
     <div className="App">
       <Hello/>
       <Hello2/>
-      <Button/>
+      <Button bigColor = "blue" label = "Btn1"/>
+      <Button bigColor = "yellow" label = "Btn2"/>
     </div>
   );
 }
